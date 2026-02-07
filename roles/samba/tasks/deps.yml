@@ -2,7 +2,7 @@
   apt:
     name:
       - build-essential
-      - python3
+      - python2
       - perl
       - pkg-config
       - libacl1-dev
